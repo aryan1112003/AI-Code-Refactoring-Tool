@@ -49,7 +49,7 @@ An intelligent code analysis tool that helps developers write better code throug
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-code-refactor.git
+   git clone https://https://github.com/aryan1112003/AI-Code-Refactoring-Tool.git
    ```
 
 2. **Install dependencies**
