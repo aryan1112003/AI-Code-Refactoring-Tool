@@ -120,5 +120,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors who help improve this tool
 
 ---
+![Screenshot 2024-12-13 175503](https://github.com/user-attachments/assets/ba712d25-0ab3-400d-aa07-a254617e93bb)
+
+![Screenshot 2024-12-13 175502](https://github.com/user-attachments/assets/3ca62625-3a2e-43d7-b9d3-dda3dd593dc8)
+
+
+
 
 Made with ❤️ by Aryan Acharya
