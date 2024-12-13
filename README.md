@@ -108,9 +108,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Aryan Acharya**
-- GitHub: [@aryanacharya](https://github.com/aryanacharya)
-- LinkedIn: [Aryan Acharya](https://linkedin.com/in/aryanacharya)
-- Email: contact@aryanacharya.com
+- GitHub: [@aryanacharya](https://github.com/aryan1112003)
+- LinkedIn: [Aryan Acharya](linkedin.com/in/aryan-acharya-9b939b316)
+- Email: aryanacharya12003@gmail.com
 
 ## 🙏 Acknowledgments
 
